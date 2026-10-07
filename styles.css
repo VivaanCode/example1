@@ -1,0 +1,22 @@
+.blue {
+    color: blue;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.text_content {
+    flex-direction: column;
+    display: flex;
+}
+
+body{
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #ff4a4a;
+}
