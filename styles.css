@@ -1,0 +1,17 @@
+body {
+    background: lightblue;
+    color: #123;
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a:hover {
+    color: purple;
+}
